@@ -1,0 +1,6 @@
+Pillow
+face-recognition
+scikit-learn
+# For Windows .lnk file creation (optional, if symlinks are problematic)
+# winshell
+# pywin32 
